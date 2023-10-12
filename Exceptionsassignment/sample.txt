@@ -1,0 +1,4 @@
+Firstname, Lastname
+Age, Date of Birth
+Name, Address, Postal Code, City, Country
+E-mail, Mobile Number
